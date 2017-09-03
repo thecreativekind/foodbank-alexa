@@ -1,0 +1,45 @@
+{
+  "session": {
+    "new": true,
+    "sessionId": "SessionId.8618b6ed-aef0-48fa-bc99-b3157585d65f",
+    "application": {
+      "applicationId": "amzn1.ask.skill.f76ab18b-f5f4-4d2a-b9ca-a07ccf3d0013"
+    },
+    "attributes": {},
+    "user": {
+      "userId": "amzn1.ask.account.AE77C3BQ3PDONR6BQJMLZJ6VA6OKRTD3ZJMSG6GB5M4TZQFI6A474MAFJDC534QFH35KHTKDMUSNIQHCW5JYD4MQAL246OLPOJJGLS56QFQNG2OJGSZY4ZOTRDVWMNKK23LPSBZ5AZEQIAFE46LW5MRFR6EYB22ZBXU42SKBHXJZKTND35TP3B2UJGKYS3YKJIRWLHGONJ4J37Q"
+    }
+  },
+  "request": {
+    "type": "IntentRequest",
+    "requestId": "EdwRequestId.38552beb-fa04-4c83-a617-ec26b5d4811a",
+    "intent": {
+      "name": "ProductsIntent",
+      "slots": {
+        "location": {
+          "name": "location",
+          "value": "Liverpool"
+        }
+      }
+    },
+    "locale": "en-GB",
+    "timestamp": "2017-08-28T19:25:25Z"
+  },
+  "context": {
+    "AudioPlayer": {
+      "playerActivity": "IDLE"
+    },
+    "System": {
+      "application": {
+        "applicationId": "amzn1.ask.skill.f76ab18b-f5f4-4d2a-b9ca-a07ccf3d0013"
+      },
+      "user": {
+        "userId": "amzn1.ask.account.AE77C3BQ3PDONR6BQJMLZJ6VA6OKRTD3ZJMSG6GB5M4TZQFI6A474MAFJDC534QFH35KHTKDMUSNIQHCW5JYD4MQAL246OLPOJJGLS56QFQNG2OJGSZY4ZOTRDVWMNKK23LPSBZ5AZEQIAFE46LW5MRFR6EYB22ZBXU42SKBHXJZKTND35TP3B2UJGKYS3YKJIRWLHGONJ4J37Q"
+      },
+      "device": {
+        "supportedInterfaces": {}
+      }
+    }
+  },
+  "version": "1.0"
+}
